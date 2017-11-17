@@ -2,5 +2,5 @@
 def display_board
   cell = "   "
   cellSeperater = "   |   "
-  print cell
+  print (cell + cellSeperater
 end
